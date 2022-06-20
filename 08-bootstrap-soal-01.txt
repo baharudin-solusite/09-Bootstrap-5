@@ -1,0 +1,21 @@
+1.Apa itu CSS Framework?
+Merupakan kumpulan kode CSS yang dapat digunakan untuk mengembangkan website.
+2.Apakah bootstrap satu-satunya CSS Framework yang dapat kita gunakan?
+Tidak
+3.Sebutkan beberapa CSS Framework selain Bootstrap?
+>Bootstrap
+>Foundation
+>Bulma
+>Semantic UI
+>UlKit
+5.Bagaimana tata cara penggunaan Bootstrap?
+> Membuat Tabel Dengan Bootstrap
+> Mengatur Tampilan Gambar Dengan Bootstrap
+> Membuat Pesan Peringatan (Alert) Dengan Bootstrap
+> Membuat Tombol Dengan Bootstrap
+> Membuat Panel Dengan Bootstrap
+sekian
+
+
+untuk soal nomer 5, menggambarkan tatacara penggunaan bootstrap 5
+jadi tidak memberikan sebuah langkah2 penggunaan bootstrap 5
